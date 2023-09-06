@@ -45,6 +45,6 @@ This project is a full-stack web application that combines the power of Spring B
 
 ![LoginPage 1](Imgs/login.png)
 ![LoginPage 2](Imgs/login2.png)
-![HomePage 1](Imgs/home1.png)
+![HomePage 1](Imgs/home.png)
 ![HomePage 2](Imgs/home2.png)
 ![Profile](Imgs/profile.png)
